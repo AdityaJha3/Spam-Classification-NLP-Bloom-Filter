@@ -67,7 +67,7 @@ Email and SMS spam pose a significant threat to digital communication. Tradition
 Clone this repository to your local machine and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/spam-classification.git
+git clone https://github.com/Adityajha3/spam-classification.git
 cd spam-classification
 pip install -r requirements.txt
 ```
