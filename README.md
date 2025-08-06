@@ -77,12 +77,11 @@ pip install -r requirements.txt
 ```
 spam-classification/
 │
-├── spamClassification (1).ipynb      # Main project notebook
+├── spamClassification.ipynb      # Main project notebook
 ├── README.md                         # Project documentation
 ├── requirements.txt                  # List of dependencies
 ├── dataset/                          # Folder containing dataset files
-│   └── spam.csv
-└── models/                           # (Optional) Exported models and pickles
+  └── spam.csv
 ```
 
 ## Detailed Methodology
